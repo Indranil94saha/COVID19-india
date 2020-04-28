@@ -1,1 +1,1 @@
-# COVID-19-india
+# COVID-19-Case study in India
